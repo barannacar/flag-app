@@ -7,7 +7,8 @@ public class Bayraklar {
     private int bayrak_id;
     private String bayrak_ad;
     private String bayrak_resim;
-    private int testObj;
+    private int testObj1;
+
     public Bayraklar() {
     }
 
